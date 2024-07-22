@@ -408,7 +408,7 @@ def parse_MQTT_Astar(msg,id,serial):
 
             serial.write(bytearray(result))
 
-            time.sleep(1)
+            # time.sleep(1)
 
         print("Length of Coordinates:", length_of_coordinates)
         print("Coordinates:", coordinates)
