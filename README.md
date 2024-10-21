@@ -15,4 +15,6 @@ Requirement:
   3. CUDA
   4. MQTT (https://github.com/Greatreyhan/AMR_Publisher.git) -b fix
 
-Installation:
+Watch The Video Here:
+------------------------------------------
+YouTube: https://youtu.be/M5sQa9pAAg0?si=Cwq4DyM9dMtC3YIy
